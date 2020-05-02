@@ -7,8 +7,6 @@ if z>1000:
     s=x+y
     print('sum')
     print(s)
-else:
-    print('product')
-    print(z)
+
 
 
