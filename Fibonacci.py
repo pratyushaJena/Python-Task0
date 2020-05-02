@@ -4,7 +4,7 @@ if(x==0|x==1):
     print('1')
 if x<0:
     print('Fibonacci series does not exist')
-if x>0:
+if x>1:
   a=0
   b=1
   print(a)
@@ -23,7 +23,7 @@ if n==0|n==1:
     print('It is a fibonacci number')
 if n<0:
     print('It is not a fibonacci number')
-while n>0:
+while n>1:
     f=d+e
     if(f==n):
         print('It is a fibonacci number')
